@@ -150,7 +150,7 @@ select c.nome, v.data_venda
 from CLiente c
 left join Venda v on c.idCliente = v.cliente
 
-select c.nome, v.data_venda, sum (1.quantidade*a.preco) as Total
+select c.nome, v.data_venda, sum (1.quantidade *a.preco) as Total
 from Artigo a, Cliente c, Venda v, LinhaVenda 1
 where c.idCliente = v.cliente and v.idVenda = 1.venda and 1.artigo = a.idArtigo
 group by c.nome, v.data_venda
