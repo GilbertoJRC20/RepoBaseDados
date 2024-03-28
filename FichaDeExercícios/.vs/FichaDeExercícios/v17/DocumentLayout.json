@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Gilberto_Costa_Cesae\\RepoBaseDados\\FichaDeExerc\u00EDcios\\",
+  "WorkspaceRootPath": "C:\\Users\\softdev\\Desktop\\Gilberto_Costa_Cesae\\RepoBaseDados\\FichaDeExerc\u00EDcios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Gilberto_Costa_Cesae\\RepoBaseDados\\FichaDeExerc\u00EDcios\\SQLQuery01ExercicioPL.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery01ExercicioPL.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Gilberto_Costa_Cesae\\RepoBaseDados\\FichaDeExerc\u00EDcios\\SQLQuery04.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\softdev\\Desktop\\Gilberto_Costa_Cesae\\RepoBaseDados\\FichaDeExerc\u00EDcios\\SQLQuery04.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery04.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\Gilberto_Costa_Cesae\\RepoBaseDados\\FichaDeExerc\u00EDcios\\SQLQuery01ExercicioPL.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\softdev\\Desktop\\Gilberto_Costa_Cesae\\RepoBaseDados\\FichaDeExerc\u00EDcios\\SQLQuery01ExercicioPL.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery01ExercicioPL.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\softdev\\Desktop\\Gilberto_Costa_Cesae\\RepoBaseDados\\FichaDeExerc\u00EDcios\\SQLQuery01ExercicioPL.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery01ExercicioPL.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\softdev\\Desktop\\Gilberto_Costa_Cesae\\RepoBaseDados\\FichaDeExerc\u00EDcios\\SQLQuery04.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery04.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\softdev\\Desktop\\Gilberto_Costa_Cesae\\RepoBaseDados\\FichaDeExerc\u00EDcios\\SQLQuery04.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery04.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,25 +35,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SQLQuery04.sql",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Gilberto_Costa_Cesae\\RepoBaseDados\\FichaDeExerc\u00EDcios\\SQLQuery04.sql",
-              "RelativeDocumentMoniker": "SQLQuery04.sql",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Gilberto_Costa_Cesae\\RepoBaseDados\\FichaDeExerc\u00EDcios\\SQLQuery04.sql",
-              "RelativeToolTip": "SQLQuery04.sql",
+              "Title": "SQLQuery01ExercicioPL.sql ",
+              "DocumentMoniker": "C:\\Users\\softdev\\Desktop\\Gilberto_Costa_Cesae\\RepoBaseDados\\FichaDeExerc\u00EDcios\\SQLQuery01ExercicioPL.sql",
+              "RelativeDocumentMoniker": "SQLQuery01ExercicioPL.sql",
+              "ToolTip": "SQLQuery01ExercicioPL.sql ",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-19T18:45:59.248Z",
+              "WhenOpened": "2024-03-19T22:01:49.43Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SQLQuery01ExercicioPL.sql ",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Gilberto_Costa_Cesae\\RepoBaseDados\\FichaDeExerc\u00EDcios\\SQLQuery01ExercicioPL.sql",
-              "RelativeDocumentMoniker": "SQLQuery01ExercicioPL.sql",
-              "ToolTip": "SQLQuery01ExercicioPL.sql ",
+              "Title": "SQLQuery04.sql ",
+              "DocumentMoniker": "C:\\Users\\softdev\\Desktop\\Gilberto_Costa_Cesae\\RepoBaseDados\\FichaDeExerc\u00EDcios\\SQLQuery04.sql",
+              "RelativeDocumentMoniker": "SQLQuery04.sql",
+              "ToolTip": "SQLQuery04.sql ",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-03-19T22:01:49.43Z",
+              "WhenOpened": "2024-03-28T12:19:44.984Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
